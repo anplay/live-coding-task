@@ -6,10 +6,10 @@ import org.openqa.selenium.support.FindBy;
 import java.util.List;
 
 public class SearchResultsPage {
-  @FindBy(css = ".results .result")
-  private List<WebElement> results;
+    @FindBy(css = ".results .result")
+    private List<WebElement> results;
 
-  public List<WebElement> getResults() {
-    return results;
-  }
+    public List<WebElement> getResults() {
+        return results;
+    }
 }
