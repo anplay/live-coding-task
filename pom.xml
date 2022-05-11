@@ -84,7 +84,6 @@
                 </plugins>
             </build>
         </profile>
-
         <profile>
             <id>firefox</id>
             <build>
@@ -106,5 +105,4 @@
             </build>
         </profile>
     </profiles>
-
 </project>
