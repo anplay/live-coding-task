@@ -4,14 +4,13 @@
 - Java 8+
 - Maven ([Install docs](https://maven.apache.org/install.html))
 - IDE (IntelliJ Idea, Eclipse etc.)
-- GIT (([Install docs](https://git-scm.com/downloads)))
+- GIT ([Install docs](https://git-scm.com/downloads))
 
 ### Tech stack:
-- Java 8 ([Install docs](https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html))
-- Maven ([Install docs](https://maven.apache.org/install.html))
+- Java 8
+- Maven
 - Selenide (Will be installed automatically)
 - JUnit (Will be installed automatically)
-- Allure ([Install docs](https://docs.qameta.io/allure/#_how_to_proceed))
 - Please see pom.xml file for more details on application modules
 
 ### Supports Browsers
